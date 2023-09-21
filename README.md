@@ -48,10 +48,8 @@ I am Frontend Developer 🙋‍♀️
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fedororova&theme=highcontrast)](https://git.io/streak-stats) 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedororova&show_icons=true&locale=en&layout=compact" width="240"
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedororova&show_icons=true&locale=en&layout=compact" width="270"
         height="150" alt=""/>
-<img src="https://github-readme-stats.vercel.app/api?username=fedororova&show_icons=true&locale=en" width="270" height="150"
+<img src="https://github-readme-stats.vercel.app/api?username=fedororova&show_icons=true&locale=en" width="350" height="150"
         />
 </div>

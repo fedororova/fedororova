@@ -14,6 +14,15 @@
   </h1>
 </div>
 
+### **📲 Contact Info**
+
+<div align="left">
+
+
+**E-mail:** al.fedororova@gmail.com <br/>
+**Telegram:** [Alina Fedorova](https://t.me/fedororova) <br/>
+**Linkedin:** [Alina Fedorova](https://www.linkedin.com/in/fedororova/)</div>
+
 ### 💬 About Me :
 I am Frontend Developer 🙋‍♀️
 - I have good time management and self-discipline.
